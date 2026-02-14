@@ -1,6 +1,9 @@
+
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Black+Admin+Dashboard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1500&color=FFFFFF&center=true&vCenter=true&width=650&lines=Black+Admin+Dashboard;Modern+Dark+SaaS+UI;Built+with+React+%2B+Tailwind" alt="Typing SVG" />
 </div>
+
 
 
 🖤 Black Admin Dashboard
