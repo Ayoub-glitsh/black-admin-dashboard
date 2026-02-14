@@ -120,25 +120,14 @@ App runs on:
 📦 NPM Scripts
 --------------
 
-Command
 
-Description
+| Command | Description |
+|----------|------------|
+| `npm run dev` | Start development server |
+| `npm run build` | Build production files |
+| `npm run preview` | Preview production build |
+| `npm run typecheck` | Check TypeScript types |
 
-`npm run dev`
-
-Start development server
-
-`npm run build`
-
-Build production files
-
-`npm run preview`
-
-Preview production build
-
-`npm run typecheck`
-
-Check TypeScript types
 
 * * *
 
