@@ -1,7 +1,7 @@
-Parfait Ayoub 👌🔥  
-Voici une **documentation propre, claire et prête à coller dans ton README.md**, adaptée EXACTEMENT à ton arborescence.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Black+Admin+Dashboard" alt="Typing SVG" />
+</div>
 
-* * *
 
 🖤 Black Admin Dashboard
 ========================
