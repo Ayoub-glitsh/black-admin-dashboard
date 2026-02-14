@@ -44,16 +44,14 @@ Designed with a strict black & white aesthetic for a clean, premium, and enterpr
 🚀 Tech Stack
 -------------
 
-*   React + Vite
-    
-*   TypeScript
-    
-*   Tailwind CSS
-    
-*   Recharts
-    
-*   Vercel (deployment)
-    
+| Icon | Technology | Role |
+|------|------------|------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /> | **React** | UI library for building interactive components |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="30" /> | **Vite** | Fast development server and build tool |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" /> | **TypeScript** | Static typing for scalable and maintainable code |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" /> | **Tailwind CSS** | Utility-first CSS framework for styling |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="30" /> | **Vercel** | Deployment and hosting platform |
+| 📊 | **Recharts** | Data visualization library for charts |
 
 * * *
 
