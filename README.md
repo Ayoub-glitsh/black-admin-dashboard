@@ -134,29 +134,13 @@ App runs on:
 🎨 Design System
 ----------------
 
-Element
-
-Color
-
-Background
-
-#0f0f0f
-
-Card
-
-#111111
-
-Border
-
-#1f1f1f
-
-Primary Text
-
-#ffffff
-
-Secondary Text
-
-#a1a1aa
+| Element | Color |
+|----------|--------|
+| Background | `#0f0f0f` |
+| Card | `#111111` |
+| Border | `#1f1f1f` |
+| Primary Text | `#ffffff` |
+| Secondary Text | `#a1a1aa` |
 
 * * *
 
