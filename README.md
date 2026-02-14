@@ -5,6 +5,12 @@
 </div>
 
 
+<div align="center">
+  <img src="assets/preview.png" width="900" alt="Black Admin Dashboard Preview" />
+</div>
+
+
+
 
 🖤 Black Admin Dashboard
 ========================
