@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body, #root {
+    height: 100%;
+  }
+  body {
+    background: #0f0f0f;
+    color: #ffffff;
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-[#0b0b0b] border border-line rounded-2xl shadow-soft p-6;
+  }
+  .surface {
+    @apply bg-[#0b0b0b] border border-line rounded-2xl shadow-soft;
+  }
+  .hover-lift {
+    @apply transition-transform duration-200 hover:-translate-y-0.5;
+  }
+  .focus-ring {
+    @apply focus:outline-none focus:ring-2 focus:ring-white/15 focus:ring-offset-0;
+  }
+}
