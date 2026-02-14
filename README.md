@@ -185,17 +185,4 @@ MIT License – Free to use and modify.
 
 * * *
 
-* * *
 
-Si tu veux, je peux maintenant te faire :
-
-*   💎 Une version ultra premium (pour vendre sur Gumroad)
-    
-*   📸 Ajouter une section Screenshots
-    
-*   🏷 Ajouter des badges GitHub stylés
-    
-*   📈 Ajouter une section “Future Improvements”
-    
-
-Ton projet commence à devenir vraiment propre 👏🔥
